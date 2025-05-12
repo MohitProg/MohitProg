@@ -17,7 +17,7 @@ I'm a passionate **Full-Stack Software eveloper** who loves building modern, sca
 
 ### 📫 Get in Touch
 - Portfolio: [your-portfolio-link.com](https://portfolio-website-olive-xi.vercel.app/)
-- LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohit-sharma-3251722a9))
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohit-sharma-3251722a9/)
 - Email: mohit.sharma327043@gmail.com
 
 ---
