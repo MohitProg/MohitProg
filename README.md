@@ -1,6 +1,6 @@
 # Hi there, I'm Mohit Sharma 👋
 
-I'm a passionate **Full-Stack Software eveloper** who loves building modern, scalable web applications. I work with both frontend and backend technologies and enjoy creating smooth, responsive user experiences backed by robust server-side logic.
+I'm a passionate **Full-Stack Software developer** who loves building modern, scalable web applications. I work with both frontend and backend technologies and enjoy creating smooth, responsive user experiences backed by robust server-side logic.
 
 ### 🚀 Tech Stack
 - 💻 Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js
